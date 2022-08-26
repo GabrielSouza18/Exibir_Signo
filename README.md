@@ -12,6 +12,6 @@
 </div>
 <h1>Preview</h1>
 
-<img width="650px" src="zodiaco.png">
+<img width="650px" src="zodiaco.PNG">
 
 
