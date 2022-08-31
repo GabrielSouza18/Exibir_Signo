@@ -18,7 +18,7 @@ border-radius: 10px;
     display: flex;
     flex-direction: row;
     justify-content: center;
-    transform: translateY(20vh);
+/*     transform: translateY(20vh); */
 }
 #botao{
     width: 10rem;
